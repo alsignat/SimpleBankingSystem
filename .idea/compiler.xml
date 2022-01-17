@@ -48,6 +48,11 @@
       <module name="Simple_Banking_System.Topics-Stream_filtering-Numbers_filtering.main" target="11" />
       <module name="Simple_Banking_System.Topics-Stream_filtering-Omitting_long_strings.main" target="11" />
       <module name="Simple_Banking_System.Topics-Stream_filtering-Theory.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Streams_of_primitives-A_stream_without_zero.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Streams_of_primitives-Producing_streams.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Streams_of_primitives-The_average_salary.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Streams_of_primitives-The_default_value_of_summary_statistics.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Streams_of_primitives-Theory.main" target="11" />
       <module name="Simple_Banking_System.Topics-String-Check_burgs.main" target="11" />
       <module name="Simple_Banking_System.Topics-String-Check_prefix_ignoring_the_case.main" target="11" />
       <module name="Simple_Banking_System.Topics-String-Comparing_strings_ignoring_whitespaces.main" target="11" />

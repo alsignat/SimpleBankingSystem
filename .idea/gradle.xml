@@ -57,6 +57,11 @@
             <option value="$PROJECT_DIR$/Topics/Stream filtering/Numbers filtering" />
             <option value="$PROJECT_DIR$/Topics/Stream filtering/Omitting long strings" />
             <option value="$PROJECT_DIR$/Topics/Stream filtering/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/A stream without zero" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/Producing streams" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/The average salary" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/The default value of summary statistics" />
+            <option value="$PROJECT_DIR$/Topics/Streams of primitives/Theory" />
             <option value="$PROJECT_DIR$/Topics/String/Check burgs" />
             <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
             <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
