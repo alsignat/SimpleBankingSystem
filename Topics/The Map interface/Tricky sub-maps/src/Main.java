@@ -1,8 +1,20 @@
 import java.util.*;
+import java.util.stream.Collectors;
 
 class MapUtils {
     public static Map<Integer, String> getSubMap(TreeMap<Integer, String> map) {
-        // Write your code here
+        if (map.firstKey() % 2 != 0) {
+            return map.headMap(5, true)
+                    .keySet()
+                    .stream()
+                    .sorted(Comparator.reverseOrder())
+                    .collect(Collectors.toMap(k -> k, map::get, (v1, v2) -> v1, LinkedHashMap::new));
+        }
+        return map.tailMap(map.lastKey() - 4, true)
+                .keySet()
+                .stream()
+                .sorted(Comparator.reverseOrder())
+                .collect(Collectors.toMap(k -> k, map::get, (v1, v2) -> v1, LinkedHashMap::new));
     }
 }
 
