@@ -60,6 +60,8 @@
       <module name="Simple_Banking_System.Topics-String-Theory.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_keyword_super-Employees.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Simple_Banking_System.Topics-The_Map_interface-Getting_submaps.main" target="11" />
+      <module name="Simple_Banking_System.Topics-The_Map_interface-Theory.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_Set_interface-A_subset_of_sorted_set.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_Set_interface-Creating_a_set.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_Set_interface-Removing_elements.main" target="11" />
