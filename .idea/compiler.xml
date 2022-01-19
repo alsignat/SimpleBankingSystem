@@ -24,8 +24,13 @@
       <module name="Simple_Banking_System.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
       <module name="Simple_Banking_System.Topics-Exception_handling-Converting_and_multiplying.main" target="11" />
       <module name="Simple_Banking_System.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Function_composition-Determine_the_result.main" target="11" />
       <module name="Simple_Banking_System.Topics-Function_composition-Disjunct_all.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Function_composition-How_to_compose_predicates_together.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Function_composition-The_chain_of_responsibility.main" target="11" />
       <module name="Simple_Banking_System.Topics-Function_composition-Theory.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Function_composition-Three_math_functions.main" target="11" />
+      <module name="Simple_Banking_System.Topics-Function_composition-What_function_is_executed_first.main" target="11" />
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-A_sorted_stream.main" target="11" />
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Finding_max_and_min_elements.main" target="11" />
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Statements_about_stream_operations.main" target="11" />

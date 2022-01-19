@@ -33,8 +33,13 @@
             <option value="$PROJECT_DIR$/Topics/Exception handling/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Determine the result" />
             <option value="$PROJECT_DIR$/Topics/Function composition/Disjunct all" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/How to compose predicates together" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/The chain of responsibility" />
             <option value="$PROJECT_DIR$/Topics/Function composition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/Three math functions" />
+            <option value="$PROJECT_DIR$/Topics/Function composition/What function is executed first" />
             <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/A sorted stream" />
             <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Finding max and min elements" />
             <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Statements about stream operations" />
