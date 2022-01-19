@@ -37,6 +37,8 @@
             <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Finding max and min elements" />
             <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Statements about stream operations" />
             <option value="$PROJECT_DIR$/Topics/Functional data processing with streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/The same pairs" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Theory" />
             <option value="$PROJECT_DIR$/Topics/Optional/Check an Optional value" />
             <option value="$PROJECT_DIR$/Topics/Optional/Create an Optional value" />
             <option value="$PROJECT_DIR$/Topics/Optional/Sum up optional values" />
@@ -67,6 +69,10 @@
             <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
             <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
             <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Basics of Maps" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Determine values of variables" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Existing implementations" />
             <option value="$PROJECT_DIR$/Topics/The Map interface/Getting submaps" />
             <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
             <option value="$PROJECT_DIR$/Topics/The Map interface/Tricky sub-maps" />

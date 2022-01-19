@@ -28,6 +28,8 @@
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Finding_max_and_min_elements.main" target="11" />
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Statements_about_stream_operations.main" target="11" />
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Theory.main" target="11" />
+      <module name="Simple_Banking_System.Topics-HashMap-The_same_pairs.main" target="11" />
+      <module name="Simple_Banking_System.Topics-HashMap-Theory.main" target="11" />
       <module name="Simple_Banking_System.Topics-Optional-Check_an_Optional_value.main" target="11" />
       <module name="Simple_Banking_System.Topics-Optional-Create_an_Optional_value.main" target="11" />
       <module name="Simple_Banking_System.Topics-Optional-Sum_up_optional_values.main" target="11" />
@@ -60,6 +62,10 @@
       <module name="Simple_Banking_System.Topics-String-Theory.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_keyword_super-Employees.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Simple_Banking_System.Topics-The_Map_interface-Basics_of_Maps.main" target="11" />
+      <module name="Simple_Banking_System.Topics-The_Map_interface-Creating_a_map.main" target="11" />
+      <module name="Simple_Banking_System.Topics-The_Map_interface-Determine_values_of_variables.main" target="11" />
+      <module name="Simple_Banking_System.Topics-The_Map_interface-Existing_implementations.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_Map_interface-Getting_submaps.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_Map_interface-Theory.main" target="11" />
       <module name="Simple_Banking_System.Topics-The_Map_interface-Tricky_sub-maps.main" target="11" />
