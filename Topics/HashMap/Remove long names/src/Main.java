@@ -4,8 +4,7 @@ import java.util.*;
 class MapFunctions {
 
     public static void removeLongNames(Map<String, String> map) {
-        // write your code here
-
+        map.entrySet().removeIf(s -> s.getValue().length() > 7 || s.getKey().length() > 7);
     }
 }
 

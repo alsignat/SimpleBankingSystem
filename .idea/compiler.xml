@@ -28,6 +28,7 @@
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Finding_max_and_min_elements.main" target="11" />
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Statements_about_stream_operations.main" target="11" />
       <module name="Simple_Banking_System.Topics-Functional_data_processing_with_streams-Theory.main" target="11" />
+      <module name="Simple_Banking_System.Topics-HashMap-Remove_long_names.main" target="11" />
       <module name="Simple_Banking_System.Topics-HashMap-The_same_pairs.main" target="11" />
       <module name="Simple_Banking_System.Topics-HashMap-Theory.main" target="11" />
       <module name="Simple_Banking_System.Topics-Optional-Check_an_Optional_value.main" target="11" />
